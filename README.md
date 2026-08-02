@@ -79,25 +79,25 @@ The project includes:
 ## 📊 Project Visualizations
 
 ### 1. Monthly Sales Analysis
-![Monthly Sales](images/Monthly_sales.png)
+![Monthly Sales](Images/Monthly_sales.png)
 
 ### 2. Category-wise Sales Analysis
-![Category Sales](images/Category_sales.png)
+![Category Sales](Images/Category_sales.png)
 
 ### 3. Sub-Category Sales Analysis
-![SubCategory Sales](images/SubCategory_sales.png)
+![SubCategory Sales](Images/SubCategory_sales.png)
 
 ### 4. Monthly Profit Analysis
-![Monthly Profit](images/Monthly_profit.png)
+![Monthly Profit](Images/Monthly_profit.png)
 
 ### 5. Profit by Category
-![Profit by Category](images/Profit_by_category.png)
+![Profit by Category](Images/Profit_by_category.png)
 
 ### 6. Profit by Sub-Category
-![Profit by SubCategory](images/Profit_by_subcategory.png)
+![Profit by SubCategory](Images/Profit_by_subcategory.png)
 
 ### 7. Sales & Profit by Customer Segment
-![Customer Segment](images/Sales-and-Profit_by_Customer_segment.png)
+![Customer Segment](Images/Sales-and-Profit_by_Customer_segment.png)
 
 # 🔍 Key Insights
 

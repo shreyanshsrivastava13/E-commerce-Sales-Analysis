@@ -116,7 +116,7 @@ This project demonstrates how Exploratory Data Analysis (EDA) can transform raw 
 ---
 
 ## 📂 Project Structure
-
+```text
 E-Commerce-Sales-Analysis/
 │── E-commerce_sales.ipynb
 │── README.md
@@ -129,7 +129,7 @@ E-Commerce-Sales-Analysis/
     │── Profit_by_category.png
     │── Profit_by_subcategory.png
     └── Sales-and-Profit_by_Customer_segment.png
-
+```
 ---
 
 # 👨‍💻 Author
